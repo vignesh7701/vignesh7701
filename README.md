@@ -10,7 +10,7 @@
 
 ## Links
 
-<font size="6">𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</font>   <a><img width="30" height="30" src="https://img.icons8.com/flat-round/64/link--v1.png" alt="link--v1"/></a>
+<font size="6">𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤</font>   <a href="https://vignesh7701.github.io/Portfolio_Web/"><img width="30" height="30" src="https://img.icons8.com/flat-round/64/link--v1.png" alt="link--v1"/></a>
 
 ## Tools & Languages
 
@@ -47,4 +47,4 @@
 
 ## Recent Activity
 
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vignesh7701&bg_color=322f31&color=ffffff&line=17a64e&point=cdf2c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vignesh7701&bg_color=322f31&color=ffffff&line=17a64e&point=cdf2c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
