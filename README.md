@@ -45,6 +45,3 @@
 
 
 
-## Recent Activity
-
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vignesh7701&bg_color=322f31&color=ffffff&line=17a64e&point=cdf2c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
