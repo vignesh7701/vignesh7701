@@ -1,4 +1,4 @@
-![Header Image](https://i.ibb.co/3hhjk48/Github-Header.gif)
+![Header Image](https://i.ibb.co/LxXBVF5/Github-Header-ezgif-com-crop.gif)
 
 ## Follow me on
 
