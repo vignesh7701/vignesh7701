@@ -6,7 +6,7 @@
 
 ## About
 
-<h3>I am a self-taught web developer and Embedded systems enthusiast. I am doing web development as a hobby and hoping to land my own blogging site, which could help electronics students to understand the embedded concepts better.</h3>
+<h3>I am a self-taught Web Developer and Embedded Systems Enthusiast.I am a ready to work in any startup and do freelancing, I work to provide a futurtistic design in website and hoping to create my own style of Embedded System Learning based website to provide insight to every Embedded Systems Enthusiast out there.</h3>
 
 ## Links
 
