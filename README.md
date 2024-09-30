@@ -10,7 +10,8 @@
 
 ## Links
 
-<font size="6">Portfolio</font>   <a href="https://vignesh7701.github.io/Portfolio_Web/"><img width="30" height="30" src="https://img.icons8.com/flat-round/64/link--v1.png" alt="link--v1"/></a>
+<a href="https://vigneshb.vercel.app/" style="font-weight: bold; color: skyblue;" target="_blank">Portfolio</a>
+ 
 
 ## Tools & Languages
 
