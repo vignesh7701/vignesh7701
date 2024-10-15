@@ -8,9 +8,25 @@
 
 <h3>I am a self-taught Web Developer and Embedded Systems Enthusiast.I am a ready to work in any startup and do freelancing, I work to provide a futurtistic design in website and hoping to create my own style of Embedded System Learning based website to provide insight to every Embedded Systems Enthusiast out there.</h3>
 
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.fiverr.com/vicky7701" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/4CAF50/fiverr--v2.png" alt="fiverr" />
+  </a>
+  <a href="https://medium.com/@vigneshb-7701" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/medium-logo.png" alt="medium" />
+  </a>
+  <a href="https://www.quora.com/profile/Vignesh-B-359" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/quora.png" alt="quora" />
+  </a>
+</div>
+
+
+
 ## Portfolio
 
-[![Portfolio](https://i.ibb.co/HFQk7yn/Portfolio.gif)](https://vigneshb.vercel.app)
+<a href="https://vigneshb.vercel.app" target="_blank">
+  <img src="https://i.ibb.co/HFQk7yn/Portfolio.gif" alt="Portfolio" />
+</a>
  
 
 ## Tools & Languages
